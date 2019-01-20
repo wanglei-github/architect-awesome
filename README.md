@@ -86,6 +86,8 @@
 	* [UML](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#uml)
 	* [微服务思想](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#微服务思想)
 		* [康威定律](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#康威定律)
+* [JAVA相关]
+    * [java类加载机制](https://www.cnblogs.com/qiuyong/p/6407418.html?utm_source=itdadao&utm_medium=referral)
 * [运维 &amp; 统计 &amp; 技术支持](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#运维--统计--技术支持)
 	* [常规监控](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#常规监控)
 	* [APM](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#apm)
